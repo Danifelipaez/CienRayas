@@ -1,4 +1,4 @@
-# CiénaFish 🐟
+# CienRayas🐟
 
 > Herramienta digital para pescadores artesanales de la Ciénaga Grande de Santa Marta, Colombia.
 
