@@ -1,10 +1,10 @@
 # CienRayas🐟
 
-> Herramienta digital para pescadores artesanales de la Ciénaga Grande de Santa Marta, Colombia.
+> Asistente impulsado por IA para pescadores artesanales de la Ciénaga Grande de Santa Marta, Colombia.
 
 ## ¿Qué es?
 
-CiénaFish es una app web móvil que ayuda a los pescadores artesanales de la Ciénaga Grande a tomar decisiones de pesca más informadas y seguras. Integra datos satelitales abiertos para mostrar en tiempo real las condiciones ambientales del cuerpo de agua más grande de Colombia.
+CienRayas es una app web móvil que ayuda a los pescadores artesanales de la Ciénaga Grande a tomar decisiones de pesca más informadas y seguras. Integra datos satelitales abiertos para mostrar en tiempo real las condiciones ambientales del cuerpo de agua más grande de Colombia.
 
 La información se presenta como:
 - **Mapa de zonas** con semáforo (verde / amarillo / rojo) según condiciones del día
